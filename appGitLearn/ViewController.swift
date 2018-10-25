@@ -9,9 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var kir = "kos"
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        func buttonClicked(_ sender: UIButton) {
+            print("This is a Git tutorial")
+        }
         // Do any additional setup after loading the view, typically from a nib.
     }
 
