@@ -14,6 +14,7 @@
 		13CFFFA42180A8C500D45380 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13CFFFA22180A8C500D45380 /* LaunchScreen.storyboard */; };
 		13CFFFAF2180A8C600D45380 /* appGitLearnTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CFFFAE2180A8C600D45380 /* appGitLearnTests.swift */; };
 		13CFFFBA2180A8C600D45380 /* appGitLearnUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CFFFB92180A8C600D45380 /* appGitLearnUITests.swift */; };
+		13E4CBD321820A940030268F /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13E4CBD221820A940030268F /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		13CFFFB52180A8C600D45380 /* appGitLearnUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appGitLearnUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13CFFFB92180A8C600D45380 /* appGitLearnUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appGitLearnUITests.swift; sourceTree = "<group>"; };
 		13CFFFBB2180A8C600D45380 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13E4CBD221820A940030268F /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		13CFFF8D2180A8C500D45380 = {
 			isa = PBXGroup;
 			children = (
+				13E4CBD221820A940030268F /* MapForItinerary.swift */,
 				13CFFF982180A8C500D45380 /* appGitLearn */,
 				13CFFFAD2180A8C600D45380 /* appGitLearnTests */,
 				13CFFFB82180A8C600D45380 /* appGitLearnUITests */,
@@ -258,6 +261,7 @@
 			files = (
 				13CFFF9C2180A8C500D45380 /* ViewController.swift in Sources */,
 				13CFFF9A2180A8C500D45380 /* AppDelegate.swift in Sources */,
+				13E4CBD321820A940030268F /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
